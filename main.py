@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 url = 'https://auto.drom.ru/mercedes-benz/'
+amount = 15
 
 
 def get_html(url, params=None):
@@ -12,7 +13,7 @@ def get_html(url, params=None):
 def get_data(url, tag, className):
     soup = BeautifulSoup(url, 'html.parser')
     raw_data = soup.find_all(tag, className)
-    raw_data = raw_data[:15]
+    raw_data = raw_data[:amount]
 
     data = []
 
@@ -33,12 +34,14 @@ def get_content(html):
     links = get_data(html, 'a', 'css-1oas0dk e1huvdhj1')
 
     prices = get_data(html, 'span', 'css-46itwz e162wx9x0')
+    for i in range(amount):
+        prices[i] = prices[i].replace(u'\xa0', u' ')
 
     info = get_data(html, 'div', 'css-1fe6w6s e162wx9x0')
 
     cars_info = []
 
-    for i in range(15):
+    for i in range(amount):
         cars_info.append({
             'title': titles[i],
             'link': links[i],

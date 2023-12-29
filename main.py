@@ -1,4 +1,5 @@
 import requests
+import pickle
 from bs4 import BeautifulSoup
 
 url = 'https://auto.drom.ru/mercedes-benz/'
@@ -50,6 +51,14 @@ def get_content(html):
         })
 
     [print(i) for i in cars_info]
+
+    with open(r'file.txt', 'w+', encoding='UTF-8') as f:
+        for i in range(amount):
+            write_data = cars_info[i].values()
+            [f.write(f'{i} ') for i in write_data]
+            f.write('\n')
+
+    f.close()
 
 
 def parse():

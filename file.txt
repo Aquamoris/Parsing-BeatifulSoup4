@@ -1,0 +1,15 @@
+Mercedes-Benz E-Class, 2016 https://auto.drom.ru/nakhodka/mercedes-benz/e-class/53564046.html 3 200 000 ₽ 2.0 л (184 л.с.), бензин, АКПП, задний, 135 000 км 
+Mercedes-Benz E-Class, 2019 https://auto.drom.ru/vladivostok/mercedes-benz/e-class/53564114.html 4 388 358 ₽ 2.0 л (184 л.с.), бензин, АКПП, 4WD, 60 000 км 
+Mercedes-Benz GLE, 2021 https://auto.drom.ru/vladivostok/mercedes-benz/gle-class/53896610.html 10 890 000 ₽ 3.0 л (435 л.с.), бензин, АКПП, 4WD, 18 510 км 
+Mercedes-Benz G-Class, 2020 https://auto.drom.ru/vladivostok/mercedes-benz/g-class/53784469.html 18 100 000 ₽ 4.0 л (585 л.с.), бензин, робот, 4WD, 35 000 км 
+Mercedes-Benz G-Class, 2016 https://auto.drom.ru/vladivostok/mercedes-benz/g-class/53058768.html 9 480 000 ₽ 5.5 л (571 л.с.), бензин, АКПП, 4WD, 75 000 км 
+Mercedes-Benz S-Class, 2018 https://auto.drom.ru/vladivostok/mercedes-benz/s-class/53329188.html 4 300 000 ₽ 3.0 л (367 л.с.), бензин, АКПП, задний, 137 000 км 
+Mercedes-Benz E-Class, 1999 https://auto.drom.ru/novokuznetsk/mercedes-benz/e-class/53941351.html 550 000 ₽ 2.0 л (136 л.с.), бензин, АКПП, задний, 287 056 км 
+Mercedes-Benz E-Class, 2004 https://auto.drom.ru/novosibirsk/mercedes-benz/e-class/51639192.html 888 000 ₽ 1.8 л (163 л.с.), бензин, АКПП, задний, 338 000 км 
+Mercedes-Benz GLC, 2019 https://auto.drom.ru/spb/mercedes-benz/glc-class/53941343.html 4 203 000 ₽ 2.0 л (197 л.с.), бензин, АКПП, 4WD 
+Mercedes-Benz GLC, 2020 https://auto.drom.ru/spb/mercedes-benz/glc-class/53941341.html 5 619 000 ₽ 2.0 л (194 л.с.), дизель, АКПП, 4WD 
+Mercedes-Benz GLS-Class, 2019 https://auto.drom.ru/spb/mercedes-benz/gls-class/53941340.html 6 205 000 ₽ 3.0 л (249 л.с.), дизель, АКПП, 4WD 
+Mercedes-Benz GLC, 2018 https://auto.drom.ru/spb/mercedes-benz/glc-class/53941338.html 4 444 000 ₽ 2.0 л (245 л.с.), бензин, АКПП, 4WD 
+Mercedes-Benz GLE, 2022 https://auto.drom.ru/spb/mercedes-benz/gle-class/53941337.html 9 690 000 ₽ 2.0 л (245 л.с.), дизель, АКПП, 4WD 
+Mercedes-Benz E-Class, 2019 https://auto.drom.ru/spb/mercedes-benz/e-class/53941336.html 5 167 000 ₽ 2.0 л (197 л.с.), бензин, АКПП, 4WD 
+Mercedes-Benz CLA-Class, 2018 https://auto.drom.ru/spb/mercedes-benz/cla-class/53941335.html 3 078 000 ₽ 2.0 л (211 л.с.), бензин, робот, 4WD 
